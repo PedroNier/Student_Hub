@@ -11,4 +11,5 @@ After that, the database was configured with simple parameters, since the goal i
 
 FastAPI and SQLAlchemy were installed in a venv and run with uvicorn to update synchronously with the changes made in the source code
 
-The next steps are to configure the models with SQLAlchemy and then configure the roots
+All the models were programmed and most of the roots too. Phase 1 of the project is finally in the end, finally (A little dramatic), I need to finish programming all the routers, and then I will begin to integrate the Front-End that will be React.JS
+
